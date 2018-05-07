@@ -1,6 +1,7 @@
 ---
-id: searchbar
+id: version-1.0.0-beta5-searchbar
 title: SearchBar
+original_id: searchbar
 ---
 
 ## Default SearchBar
@@ -142,13 +143,13 @@ Use `null` or `false` to hide the icon.
 
 ---
 
-### `searchIcon`
+### `containerStyle`
 
 style the container of the SearchBar
 
-|                                             Type                                              | Default |
-| :-------------------------------------------------------------------------------------------: | :-----: |
-| {[...Icon props](/react-native-elements/docs/icon.html#icon-props)}<br/>**OR**<br/> component |  none   |
+|      Type      |      Default      |
+| :------------: | :---------------: |
+| object (style) | inherited styling |
 
 ---
 
